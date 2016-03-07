@@ -2,3 +2,11 @@
 *.swp
 .DS_Store
 certificates/db_conf.php
+
+# Eclipse Project
+.settings/
+.buildpath
+.project
+
+# Mac OS X
+.DS_Store
