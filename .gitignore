@@ -10,3 +10,6 @@ certificates/db_conf.php
 
 # Mac OS X
 .DS_Store
+
+# Node
+node_modules/
