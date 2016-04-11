@@ -19,6 +19,10 @@ p {
     text-align:justify;
 }
 
+.modal p {
+	font-size: 14px;
+}
+
 header {
 	padding: 0px 0 62px;
 	text-align: center;
